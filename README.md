@@ -19,11 +19,11 @@ The goal is to find **better fleet positioning and station planning** using the 
 
 ## 🎯 Impact Highlights
 
-- Identify **high-demand areas** as measured by **number of taxi trips per demand point** by tracking how often each car visits offices, restaurants, groceries, and malls over a 7-day simulation.
+> Identify **high-demand areas** as measured by **number of taxi trips per demand point** by tracking how often each car visits offices, restaurants, groceries, and malls over a 7-day simulation.
 
-- Valuable **service station optimization insights** as measured by **number of cars serviced and maximum queues per station** by modeling five stations with one-at-a-time service and 40-minute service times.
+> Valuable **service station optimization insights** as measured by **number of cars serviced and maximum queues per station** by modeling five stations with one-at-a-time service and 40-minute service times.
 
-- Actionable **fleet reallocation recommendations** as measured by **uneven demand distribution (e.g., Grocery 1 vs Grocery 2)** by analyzing trips data and showing that some locations and stations can be scaled down while others should be reinforced.
+> Actionable **fleet reallocation recommendations** as measured by **uneven demand distribution (e.g., Grocery 1 vs Grocery 2)** by analyzing trips data and showing that some locations and stations can be scaled down while others should be reinforced.
 
 ---
 
