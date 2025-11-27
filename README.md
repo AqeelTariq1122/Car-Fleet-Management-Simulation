@@ -2,6 +2,8 @@
 
 > A one-week AnyLogic simulation where cars respond to city-wide demand points, visit service stations, and generate data to improve fleet allocation and station utilization.
 
+<img width="1059" height="763" alt="Cream and Brown Photographic Beauty Site Launch Website" src="https://github.com/user-attachments/assets/0a1a2d49-36a0-41b6-b62f-a54b91baf192" />
+
 ---
 
 ## 🧠 Project Overview
