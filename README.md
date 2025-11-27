@@ -100,5 +100,7 @@ This demand point model turns a simple taxi scenario into a **decision-support t
 
 **Aqeel Tariq**  
 Operations Analyst | Simulation Modeling & Data Visualization  
-AnyLogic ▪ Python ▪ Java ▪ Streamlit  
-Focused on using digital models to improve real-world operations.
+🔧 AnyLogic ▪ Python ▪ Java ▪ Streamlit  
+📍 Building digital twins that turn complex operations into measurable decisions.
+
+---
